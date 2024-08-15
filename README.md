@@ -1,1 +1,2 @@
-# Projeto-An-lise-de-Materiais-Agricolas
+Tecnologia Utilizada:
+- Phyton
